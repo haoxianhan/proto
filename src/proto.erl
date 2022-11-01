@@ -1,0 +1,3 @@
+-module(proto).
+
+-export([]).
