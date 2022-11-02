@@ -17,7 +17,8 @@ _build
 *.iml
 rebar3.crashdump
 *~
+tags
 
 proto/
 include/pb_*.hrl
-src/pb_*.erl
+src/pb/pb_*.erl

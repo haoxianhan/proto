@@ -1,3 +1,4 @@
 -module(proto).
 
--export([]).
+-export([
+        ]).
